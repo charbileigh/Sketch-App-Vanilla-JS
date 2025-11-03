@@ -1,6 +1,9 @@
 # Sketch-App-JS
 This is a mini vanilla JS Sketch app
 
+# Image of the Project
+
+
 ## Cloning the project 
 
 ```
