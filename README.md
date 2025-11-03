@@ -21,4 +21,10 @@ gh repo clone charbileigh/Sketch-App-JS
 ```
 
 ## Author
-- [@Chabi Francesca Seopa](https://www.github.com/charbileigh)
+
+[@Chabi Francesca Seopa](https://www.github.com/charbileigh)
+
+## Lisence
+
+You may re-use, clone and fork the project. 
+
